@@ -1,0 +1,5 @@
+aiogram
+instagrapi
+sqlalchemy
+pydantic
+pyrogram
